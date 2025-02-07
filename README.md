@@ -1,6 +1,5 @@
 # Churn-Prediction-by-Kishor-Desai
 **Churn Rate Prediction**
-Explanation of the Code
 This code implements a customer churn prediction pipeline. It generates a synthetic dataset, preprocesses the data, trains a RandomForestClassifier using hyperparameter tuning, evaluates the model, and visualizes feature importance.
 ________________________________________
 **Problem Statement**
